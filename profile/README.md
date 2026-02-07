@@ -1,10 +1,12 @@
 # Hi, I’m Danny, building under the moniker **CultivateDev** 👋
 
-I’m a software developer focused on building thoughtful, community-driven software, especially projects that blend technology, culture, and learning.
+I’m a software developer focused on building thoughtful, community-driven software that blends technology, culture, and learning.
 
 The name **CultivateDev** reflects how I approach my work: cultivating code, community, and culture, one project at a time.
 
 I care about clean systems, sustainable design, and creating tools that invite people to participate rather than just consume.
+
+**My goal is to build small, meaningful products that grow alongside the communities they serve.**
 
 ---
 
@@ -17,7 +19,7 @@ A Hmong-inspired, Wordle-style game designed to help people play, learn, and eng
 - Open source
 - Community-driven word list
 - Built to grow and evolve over time
-- Welcomes learners and contributors of all backgrounds
+- Welcomes learners and contributors of all experience levels
 
 > Play. Learn. Preserve Hmong language.
 
@@ -53,7 +55,7 @@ I believe open source works best when:
 - Respect is intentional
 - Learning is encouraged
 
-If you’re interested in contributing, whether through code, language knowledge, UX feedback, or documentation, you’re welcome here.
+Contributions come in many forms. Whether you bring code, language knowledge, UX feedback, documentation, or simple curiosity, you’re welcome here.
 
 ---
 
